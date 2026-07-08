@@ -60,6 +60,14 @@ Students work through curated problem lists organized by week and difficulty. Se
 - **Final exam** (30%)
 - **After class GitHub commit** (20%)
 
+## Bonus Points
+
+Students who participate in CPE (Collegiate Programming Examination) can earn bonus points. CPE exams are scheduled on 2026-10-06 and 2026-12-08. The better score from these two dates will be used for bonus calculation:
+
+- **Register and attend the CPE exam:** +1 point
+- **Pass one problem each:** +1 point
+- **Pass four problems:** +2 extra points
+
 ## References
 
 ### Books

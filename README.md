@@ -14,12 +14,12 @@ This laboratory course focuses on developing practical C++ programming skills th
 
 ## Why This Course Matters
 
-This course provides students with hands-on experience in a CPE-like environment, allowing them to practice coding exercises on-site. This simulated examination setting helps students become familiar with the testing conditions and builds confidence in solving problems under time pressure.
+This course provides students with hands-on experience in a CPE-like environment, allowing them to practice coding exercises on-site. This simulated examination setting helps students become familiar with the testing conditions and builds confidence in solving problems under time pressure. Each class session consists of a **10-20 minute short lecture** followed by a **90-minute on-site examination** to simulate the actual CPE testing environment.
 
 [Back to Table of Contents](#table-of-contents)
 
 ## Course Information  
-- **Course Title:** C++ Programming (Laboratory)  
+- **Course Title:** C++ Programming Laboratory (I)  
 - **Course Code:** CI001 A3  
 - **Target Audience**: Undergraduate Students  
 - **Duration**: 18 Weeks (including Midterm and Final exams)  
@@ -40,10 +40,10 @@ This course provides students with hands-on experience in a CPE-like environment
 
 ## Course Materials
 
-- [Syllabus]()): Course schedule, weekly topics, and grading information.
-- [On-Site Examination Policy](): Rules and expectations for in-class examinations.
-- [Assignments](): Assignment requirements, checkpoints, and deadlines.
-- [Problems](): Selected UVa and LeetCode problems used for class practice.
+- [Syllabus](./Syllabus.md): Course schedule, weekly topics, and grading information.
+- [On-Site Examination Policy](./On-SiteExamPolicy.md): Rules and expectations for in-class examinations.
+- [Assignments](./Assignment/): Assignment requirements, checkpoints, and deadlines.
+- [Problems](./Problems.md): Selected UVa and LeetCode problems used for class practice.
 - [CPE One-Star Problem List](./CPE/CPEoneStar.md): Reference list of commonly used CPE one-star problems.
 - [CPE History Exams](./CPE/CPEHistory.md): Historical CPE exam sessions with linked UVa problem sets.
 

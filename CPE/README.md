@@ -1,7 +1,7 @@
 # CPE (Collegiate Programming Examination)
 
 ## Overview
-CPE (Collegiate Programming Examination / 大學程式能力檢定) aims to enhance the programming abilities of college students and related professionals. Candidates take online programming tests that are automatically evaluated by computers to assess their programming capabilities.
+CPE (Collegiate Programming Examination / 大學程式能力檢定) aims to enhance the programming abilities of college students and related professionals. Candidates take online programming tests that are automatically evaluated by computers to assess their programming capabilities. 
 
 ## CPE Exam Date
 - **Scheduled Exam Dates**:
@@ -13,5 +13,8 @@ CPE (Collegiate Programming Examination / 大學程式能力檢定) aims to enha
 ## Related Documents
 - [CPEHistory.md](./CPEHistory.md)
 - [CPEoneStar.md](./CPEoneStar.md)
+
+## Official Resources
+- [CPE Official Website](https://cpe.ntu.edu.tw/)
 
 For more information, please refer to the official CPE documentation and guidelines.

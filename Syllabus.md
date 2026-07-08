@@ -19,26 +19,26 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 
 ## Course Schedule
 
-| Week | Class Date | Theme |
-|------|------------|-------|
-| 1 | 2026/09/08 | Basic I/O and arithmetic |
-| 2 | 2026/09/15 | Conditionals and classification |
-| 3 | 2026/09/22 | Loops and digit processing |
-| 4 | 2026/09/29 | Time, angle, and formula simulation |
-| 5 | 2026/10/06 | Number theory I |
-| 6 | 2026/10/13 | Number representation |
-| 7 | 2026/10/20 | Arrays, sorting, and search intro |
-| 8 | 2026/10/27 | Midterm |
-| 9 | 2026/11/03 | Strings I: basic processing |
-| 10 | 2026/11/10 | Strings II: encoding and patterns |
-| 11 | 2026/11/17 | Map, set, and dictionary |
-| 12 | 2026/11/24 | 2D arrays and matrix |
-| 13 | 2026/12/01 | Simulation |
-| 14 | 2026/12/08 | Sorting records and custom order |
-| 15 | 2026/12/15 | Greedy and light recurrence |
-| 16 | 2026/12/22 | Final Exam |
-| 17 | 2026/12/29 | |
-| 18 | 2027/01/05 | |
+| Week | Class Date | Theme | C++ Skill Focus |
+|------|------------|-------|-----------------|
+| 1 | 2026/09/08 | Basic I/O and arithmetic | iostream (`cin`, `cout`), variables, operators |
+| 2 | 2026/09/15 | Conditionals and classification | `if/else`, nested conditionals |
+| 3 | 2026/09/22 | Loops and digit processing | for, while loops, repeated input |
+| 4 | 2026/09/29 | Time, angle, and formula simulation | formula implementation, floating point |
+| 5 | 2026/10/06 | Number theory I | functions, loops, divisors |
+| 6 | 2026/10/13 | Number representation | `%`, `/`, base conversion |
+| 7 | 2026/10/20 | Arrays, sorting, and search intro | array/vector, `sort`, simple search |
+| 8 | 2026/10/27 | Midterm | exam strategy, debugging |
+| 9 | 2026/11/03 | Strings I: basic processing | `string`, `char`, ASCII |
+| 10 | 2026/11/10 | Strings II: encoding and patterns | string traversal, pattern checking |
+| 11 | 2026/11/17 | Map, set, and dictionary | `map`, `set`, counting |
+| 12 | 2026/11/24 | 2D arrays and matrix | nested loops, 2D arrays |
+| 13 | 2026/12/01 | Simulation | process modeling, arrays/vector |
+| 14 | 2026/12/08 | Sorting records and custom order | `struct`, comparator, sorting |
+| 15 | 2026/12/15 | Greedy and light recurrence | greedy, recurrence table |
+| 16 | 2026/12/22 | Final Exam | |
+| 17 | 2026/12/29 | CPE one-star recovery clinic | re-practice, debugging, code reading |
+| 18 | 2027/01/05 | STL and light algorithm preview | confidence bridge to Lab II |
 
 ## Problem Set
 

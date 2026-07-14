@@ -4,6 +4,7 @@
 
 - [Course Overview](#course-overview)
 - [Why This Course Matters](#why-this-course-matters)
+- [AI Collaboration Statement](#ai-collaboration-statement)
 - [Course Information](#course-information)
 - [Course Materials](#course-materials)
 - [Repository Guide](#repository-guide)
@@ -55,7 +56,5 @@ This repository reflects my own teaching ideas, course organization, and learnin
 
 - [Assignment](./Assignment/): Programming assignments and submission guidance.
 - [Supplement](./Supplement/): Additional learning materials and references.
-
-
 
 [Back to Table of Contents](#table-of-contents)

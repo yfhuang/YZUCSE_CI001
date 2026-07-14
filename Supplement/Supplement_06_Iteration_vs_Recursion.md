@@ -55,9 +55,6 @@ int main() {
 ```
 
 **Recursive Approach**
-...existing code...
-
-**Recursive Approach**
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;

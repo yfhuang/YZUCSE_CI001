@@ -20,12 +20,23 @@ Create one standard header block that you use in most practice files.
 using namespace std;
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-	return 0;
+    return 0;
 }
 ```
+
+### Notes for students (Step 1)
+
+- `#include <bits/stdc++.h>` is a GCC shortcut header that includes most standard C++ libraries.
+  - Useful for contest/practice speed.
+  - Not fully portable to all compilers.
+- `using namespace std;` lets you write `cin`, `cout`, and `string` without `std::`.
+- `int main()` is the program entry point.
+- `ios::sync_with_stdio(false);` speeds up C++ stream I/O.
+- `cin.tie(nullptr);` avoids automatic flushing before each input operation, improving speed.
+- `return 0;` indicates normal program termination.
 
 ### Why this matters
 
@@ -44,19 +55,26 @@ using namespace std;
 using ll = long long;
 
 void solve() {
-	// read input
-	// process data
-	// print answer
+    // read input
+    // process data
+    // print answer
 }
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(nullptr);
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
 
-	solve();
-	return 0;
+    solve();
+    return 0;
 }
 ```
+
+### Notes for students (Step 2)
+
+- `using ll = long long;` creates a short alias for 64-bit integers.
+- `void solve()` keeps core problem logic separate from setup code.
+- `main()` only handles I/O setup and calls `solve()`.
+- This structure is easy to reuse across many problems.
 
 ### What to put in the template
 
@@ -86,15 +104,24 @@ cin.ignore(numeric_limits<streamsize>::max(), '\n');
 
 string line;
 while (T--) {
-	getline(cin, line);
+    getline(cin, line);
 
-	if (line.empty()) {
-		continue;
-	}
+    if (line.empty()) {
+        continue;
+    }
 
-	// process the line
+    // process the line
 }
 ```
+
+### Notes for students (Step 3)
+
+- `cin >> T;` reads a token (number), not a full line.
+- `cin.ignore(..., '\n');` removes the leftover newline before `getline`.
+- `getline(cin, line);` reads a whole line including spaces.
+- `if (line.empty()) continue;` safely skips blank lines.
+
+> Rule: if you use `cin >> ...` and then need `getline`, call `cin.ignore(...)` first.
 
 ### What to remember
 

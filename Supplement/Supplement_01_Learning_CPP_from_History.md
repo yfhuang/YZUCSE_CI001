@@ -17,6 +17,7 @@ Knowing the historical background helps you:
 | 1 | The story of C++ and its impact | [The Story of C++: The World's Most Consequential Programming Language \| The Official Story](https://youtu.be/lI7tMxzSJ7w?si=3cu4KrmsQDQyflmp) | Timeline, motivation, and major milestones of C++. |
 | 2 | Interview with Bjarne Stroustrup | [Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes \| Bjarne Stroustrup](https://youtu.be/U46fJ2bJ-co?si=nB8vtLATyg-46VES) | Core philosophy, trade-offs, and lessons from language design. |
 | 3 | Additional historical perspective | [YouTube Video](https://youtu.be/uTxRF5ag27A?si=m_tmyDTIRkrA980j) | Compare viewpoints and summarize key ideas in your own words. |
+| 4 | Alex Stepanov, Generic Programming, and the C++ STL | [Alex Stepanov, Generic Programming, and the C++ STL](https://www.youtube.com/watch?v=yUa6Uxq25tQ&t=12s) | Generic programming principles, the origins of the STL, and the relationship between algorithms and containers. |
 
 ## Suggested Learning Path
 

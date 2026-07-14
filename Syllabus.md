@@ -1,5 +1,19 @@
 # CI001: C++ Programming Laboratory (I) - Syllabus
 
+## Table of Contents
+
+- [Policies](#policies)
+    - [On-Site Examination](#on-site-examination)
+    - [After-Class](#after-class)
+- [On-site Examination Policy](#on-site-examination-policy)
+- [Course Schedule](#course-schedule)
+- [Problem Set](#problem-set)
+- [Rubric](#rubric)
+- [Bonus Points](#bonus-points)
+- [References](#references)
+    - [Books](#books)
+    - [Online Resources](#online-resources)
+
 ## Policies
 
 ### On-Site Examination
@@ -11,11 +25,15 @@
 
 Students are required to commit all on-site practice exercises to their personal course GitHub repository. Each submission must include a README.md file documenting the solutions and approaches used.
 
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)
+
 ## On-site Examination Policy
 
 Students are required to bring valid identification and arrive 10 minutes before the examination starts. Only approved calculators and writing materials are permitted. Electronic devices (phones, smartwatches, etc.) must be turned off and stored away. Any form of academic dishonesty will result in a zero grade and disciplinary action per university policy.
 
 For detailed examination guidelines, please review the [On-site Examination Policy](./On-SiteExamPolicy.md).
+
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)
 
 ## Course Schedule
 
@@ -38,7 +56,9 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 | 15 | 2026/12/15 | Greedy and light recurrence | greedy, recurrence table |
 | 16 | 2026/12/22 | Final Exam | exam strategy, debugging |
 | 17 | 2026/12/29 | CPE one-star recovery clinic | re-practice, debugging, code reading |
-| 18 | 2027/01/05 | STL and light algorithm preview | confidence bridge to Lab II |
+| 18 | 2027/01/05 | STL and light algorithm preview | confidence bridge to C++ Programming Laboratory (II) |
+
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)
 
 ## Problem Set
 
@@ -48,17 +68,20 @@ Students work through curated problem lists organized by week and difficulty. Se
 
 **Before/After Class:** Additional Easy and Medium problems from LeetCode for reinforcement and skill building outside class hours.
 
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)
+
 ## Rubric
 - **On-site practices** (20%)
     - Two on-site practices each week during class
     - Scoring per practice session:
-        - Passed 2 problems: 100 points
-        - Passed 1 problem: 70 points
-        - Passed 0 problems: 0 points
+        - Regular problem: 100 points if passed (AC); otherwise 0 points
+        - Bonus problem: 150 points if passed (AC); otherwise 0 points
     - The final on-site practice score is calculated from each student's top 20 practice scores
 - **Midterm exam** (30%)
 - **Final exam** (30%)
 - **After class GitHub commit** (20%)
+
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)
 
 ## Bonus Points
 
@@ -67,6 +90,8 @@ Students who participate in CPE (Collegiate Programming Examination) can earn bo
 - **Register and attend the CPE exam:** +1 point
 - **Pass one problem each:** +1 point
 - **Pass four problems:** +2 extra points
+
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)
 
 ## References
 
@@ -82,3 +107,5 @@ Students who participate in CPE (Collegiate Programming Examination) can earn bo
  - [C++ Refactor](https://github.com/pangfengliu/Cplusplus-refactor)
  - [Standard Template Library (STL) Documentation](https://en.cppreference.com/w/cpp/container)
  - [Boost C++ Libraries](https://www.boost.org/)
+
+[Back to top](#ci001-c-programming-laboratory-i---syllabus)

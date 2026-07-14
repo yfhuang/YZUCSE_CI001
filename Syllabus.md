@@ -23,7 +23,7 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 |------|------------|-------|-----------------|
 | 1 | 2026/09/08 | Basic I/O and arithmetic | iostream (`cin`, `cout`), variables, operators |
 | 2 | 2026/09/15 | Conditionals and classification | `if/else`, nested conditionals |
-| 3 | 2026/09/22 | Loops and digit processing | for, while loops, repeated input |
+| 3 | 2026/09/22 | Loops and digit processing | `for`, `while` loops, repeated input |
 | 4 | 2026/09/29 | Time, angle, and formula simulation | formula implementation, floating point |
 | 5 | 2026/10/06 | Number theory I | functions, loops, divisors |
 | 6 | 2026/10/13 | Number representation | `%`, `/`, base conversion |
@@ -36,7 +36,7 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 | 13 | 2026/12/01 | Simulation | process modeling, arrays/vector |
 | 14 | 2026/12/08 | Sorting records and custom order | `struct`, comparator, sorting |
 | 15 | 2026/12/15 | Greedy and light recurrence | greedy, recurrence table |
-| 16 | 2026/12/22 | Final Exam | |
+| 16 | 2026/12/22 | Final Exam | exam strategy, debugging |
 | 17 | 2026/12/29 | CPE one-star recovery clinic | re-practice, debugging, code reading |
 | 18 | 2027/01/05 | STL and light algorithm preview | confidence bridge to Lab II |
 

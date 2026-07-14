@@ -112,6 +112,7 @@ int main() {
 ```cpp
 #include <iostream>
 #include <vector>
+
 using namespace std;
 
 bool isB2Sequence(vector<int>& b) {
@@ -258,6 +259,7 @@ int main() {
 #include <iostream>
 #include <set>
 #include <vector>
+
 using namespace std;
 
 bool isB2Sequence(const vector<int>& b) {
@@ -390,6 +392,7 @@ int main() {
 ```cpp
 #include <iostream>
 #include <vector>
+
 using namespace std;
 
 bool isB2Sequence(vector<int>& b) {
@@ -554,6 +557,7 @@ int main() {
 #include <iostream>
 #include <set>
 #include <vector>
+
 using namespace std;
 
 bool isB2Sequence(vector<int>& b) {
@@ -733,6 +737,7 @@ int main() {
 #include <iostream>
 #include <unordered_set>
 #include <vector>
+
 using namespace std;
 
 bool isB2Sequence(vector<int>& b) {
@@ -901,6 +906,7 @@ int main() {
 ```cpp
 #include <iostream>
 #include <vector>
+
 using namespace std;
 
 bool isB2Sequence(vector<int>& b) {

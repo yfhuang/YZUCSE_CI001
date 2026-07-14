@@ -7,7 +7,6 @@
 - [AI Collaboration Statement](#ai-collaboration-statement)
 - [Course Information](#course-information)
 - [Course Materials](#course-materials)
-- [Repository Guide](#repository-guide)
 
 ## Course Overview
 
@@ -47,14 +46,10 @@ This repository reflects my own teaching ideas, course organization, and learnin
 
 - [Syllabus](./Syllabus.md): Course schedule, weekly topics, and grading information.
 - [On-Site Examination Policy](./On-SiteExamPolicy.md): Rules and expectations for in-class examinations.
+- [Supplement](./Supplement/): Additional learning materials and references.
 - [Assignments](./Assignment/): Assignment requirements, checkpoints, and deadlines.
 - [Problems](./Problems.md): Selected UVa and LeetCode problems used for class practice.
 - [CPE One-Star Problem List](./CPE/CPEoneStar.md): Reference list of commonly used CPE one-star problems.
 - [CPE History Exams](./CPE/CPEHistory.md): Historical CPE exam sessions with linked UVa problem sets.
-
-## Repository Guide
-
-- [Assignment](./Assignment/): Programming assignments and submission guidance.
-- [Supplement](./Supplement/): Additional learning materials and references.
 
 [Back to Table of Contents](#table-of-contents)

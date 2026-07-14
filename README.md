@@ -4,6 +4,7 @@
 
 - [Course Overview](#course-overview)
 - [Why This Course Matters](#why-this-course-matters)
+- [AI Collaboration Statement](#ai-collaboration-statement)
 - [Course Information](#course-information)
 - [Course Materials](#course-materials)
 - [Repository Guide](#repository-guide)
@@ -15,6 +16,10 @@ This laboratory course focuses on developing practical C++ programming skills th
 ## Why This Course Matters
 
 This course provides students with hands-on experience in a CPE-like environment, allowing them to practice coding exercises on-site. This simulated examination setting helps students become familiar with the testing conditions and builds confidence in solving problems under time pressure. Each class session consists of a **10-20 minute short lecture** followed by a **90-minute on-site examination** to simulate the actual CPE testing environment.
+
+## AI Collaboration Statement
+
+This repository reflects my own teaching ideas, course organization, and learning materials, developed in collaboration with AI assistance. AI tools may be used for drafting, explanation, debugging, review, and feedback, but they should support the learning process rather than replace personal understanding, problem solving, or code writing during assignments and examinations. Use them responsibly and in accordance with the course rules and on-site examination policy.
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -51,5 +56,7 @@ This course provides students with hands-on experience in a CPE-like environment
 
 - [Assignment](./Assignment/): Programming assignments and submission guidance.
 - [Supplement](./Supplement/): Additional learning materials and references.
+
+
 
 [Back to Table of Contents](#table-of-contents)

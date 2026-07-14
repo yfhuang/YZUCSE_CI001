@@ -49,8 +49,7 @@ This course provides students with hands-on experience in a CPE-like environment
 
 ## Repository Guide
 
-- [Assignment](): Programming assignments and submission guidance.
-- [Example](): Before-class, after-class, and on-site practice examples.
-- [Supplement](): Additional learning materials and references.
+- [Assignment](./Assignment/): Programming assignments and submission guidance.
+- [Supplement](./Supplement/): Additional learning materials and references.
 
 [Back to Table of Contents](#table-of-contents)

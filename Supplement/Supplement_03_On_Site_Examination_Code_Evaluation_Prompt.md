@@ -1,4 +1,4 @@
-# On-Site Examination Code Evaluation Prompt
+# Supplement 03: On-Site Examination Code Evaluation Prompt
 
 This Markdown file provides reusable AI prompts for students to review and improve their UVa/CPE-style on-site examination code.
 
@@ -7,9 +7,7 @@ This Markdown file provides reusable AI prompts for students to review and impro
 ```markdown
 I am practicing for an on-site programming examination using UVa/CPE-style problems. 
 
-The overall problem set can be found here:  
-https://github.com/yfhuang/YZUCSE_CI001/blob/main/Problems.md
-
+The overall problem set can be found here:  [Problems.md](../Problems.md)
 
 Please help me review my code carefully and guide me to understand the weaknesses in my current solution.
 

@@ -1,4 +1,4 @@
-# CPE Examination Preparation Guide
+# Supplement 02: CPE Examination Preparation Guide
 
 ## Description
 

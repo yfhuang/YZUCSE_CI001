@@ -102,10 +102,11 @@ Students who participate in CPE (Collegiate Programming Examination) can earn bo
 - Dale, Nell; Weems, Chip. *C++ Plus Data Structures*. 6th ed. Jones & Bartlett Learning, 2016.
 
 ### Online Resources
- - [The Algorithms](https://github.com/TheAlgorithms)
- - [C Programming with Idioms (2nd Edition)](https://github.com/pangfengliu/C-programming-with-idioms-2nd-edition)
- - [C++ Refactor](https://github.com/pangfengliu/Cplusplus-refactor)
- - [Standard Template Library (STL) Documentation](https://en.cppreference.com/w/cpp/container)
  - [Boost C++ Libraries](https://www.boost.org/)
+ - [C++ Programming Laboratory (II)](https://github.com/yfhuang/YZUCSE_CI002/)
+ - [C++ Refactor](https://github.com/pangfengliu/Cplusplus-refactor)
+ - [C Programming with Idioms (2nd Edition)](https://github.com/pangfengliu/C-programming-with-idioms-2nd-edition)
+ - [Standard Template Library (STL) Documentation](https://en.cppreference.com/w/cpp/container)
+ - [The Algorithms](https://github.com/TheAlgorithms)
 
 [Back to top](#ci001-c-programming-laboratory-i---syllabus)

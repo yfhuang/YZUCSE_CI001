@@ -4,7 +4,6 @@
 
 - [Course Overview](#course-overview)
 - [Why This Course Matters](#why-this-course-matters)
-- [AI Collaboration Statement](#ai-collaboration-statement)
 - [Course Information](#course-information)
 - [Course Materials](#course-materials)
 - [Repository Guide](#repository-guide)

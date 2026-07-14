@@ -65,7 +65,15 @@ Show the relevant code that failed first, then show the corrected version. If th
 ### Fail Code
 
 ```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
 // Paste the incorrect, incomplete, or rejected version here.
+
+int main() {
+    return 0;
+}
 ```
 
 **Why it failed:**
@@ -76,7 +84,15 @@ Show the relevant code that failed first, then show the corrected version. If th
 ### Correct Code
 
 ```cpp
+#include <bits/stdc++.h>
+
+using namespace std;
+
 // Paste the corrected or accepted version here.
+
+int main() {
+    return 0;
+}
 ```
 
 **Why it works:**

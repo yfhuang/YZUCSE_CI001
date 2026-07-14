@@ -49,6 +49,10 @@ Describe my current solution idea:
 
 ```cpp
 // Paste your full code here
+
+int main() {
+    return 0;
+}
 ```
 
 ## Please Evaluate My Code From These Perspectives

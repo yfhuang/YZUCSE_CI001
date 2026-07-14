@@ -17,6 +17,7 @@ Create one standard header block that you use in most practice files.
 
 ```cpp
 #include <bits/stdc++.h>
+
 using namespace std;
 
 int main() {
@@ -50,6 +51,7 @@ Add a template that matches your preferred coding style. Keep the structure simp
 
 ```cpp
 #include <bits/stdc++.h>
+
 using namespace std;
 
 using ll = long long;
@@ -98,19 +100,31 @@ Many UVa and CPE-style problems need a small amount of input setup before the ma
 ### Example pattern
 
 ```cpp
-int T;
-cin >> T;
-cin.ignore(numeric_limits<streamsize>::max(), '\n');
+#include <bits/stdc++.h>
 
-string line;
-while (T--) {
-    getline(cin, line);
+using namespace std;
 
-    if (line.empty()) {
-        continue;
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int T;
+    cin >> T;
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+    string line;
+    while (T--) {
+        getline(cin, line);
+
+        if (line.empty()) {
+            continue;
+        }
+
+        // process the line
+        cout << line << endl;
     }
 
-    // process the line
+    return 0;
 }
 ```
 

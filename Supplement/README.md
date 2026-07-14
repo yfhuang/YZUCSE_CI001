@@ -1,28 +1,31 @@
 # Supplement Resources
 
-This folder collects reusable study notes and AI prompt templates for UVa/CPE preparation. The documents are organized in suggested reading order below.
+This folder collects reusable study notes and AI prompt templates for UVa/CPE preparation. The supplements are arranged in a recommended learning order, from C++ foundations to problem-solving strategy and STL usage.
 
 ## Supplements
 
-- [Supplement_01_Learning_CPP_from_History.md](./Supplement_01_Learning_CPP_from_History.md) - A short learning path using C++ history and videos to explain language design choices.
-- [Supplement_02_CPE_Examination_Preparation_Guide.md](./Supplement_02_CPE_Examination_Preparation_Guide.md) - A prompt template for analyzing CPE history problems, topic trends, and likely exam directions.
-- [Supplement_03_On_Site_Examination_Code_Evaluation_Prompt.md](./Supplement_03_On_Site_Examination_Code_Evaluation_Prompt.md) - A prompt template for reviewing UVa/CPE-style on-site examination code and identifying weaknesses.
-- [Supplement_04_Learning_Input_Patterns_via_UVa_Problems.md](./Supplement_04_Learning_Input_Patterns_via_UVa_Problems.md) - A study note for recognizing common UVa input formats and choosing suitable C++ input strategies.
-- [Supplement_05_Preparing_Your_Codebook.md](./Supplement_05_Preparing_Your_Codebook.md) - A scaffold for building a personal C++ codebook with reusable headers, templates, and input preprocessing patterns.
-- [Supplement_06_Iteration_vs_Recursion.md](./Supplement_06_Iteration_vs_Recursion.md) - A C++ comparison of iteration and recursion with examples, trade-offs, and usage guidance.
+- [Supplement_01_Learning_CPP_from_History.md](./Supplement_01_Learning_CPP_from_History.md) - Learn why C++ evolved the way it did, with curated historical context and video resources.
+- [Supplement_02_CPE_Examination_Preparation_Guide.md](./Supplement_02_CPE_Examination_Preparation_Guide.md) - Use short and long prompt templates to analyze CPE trends and prepare exam strategy.
+- [Supplement_03_On_Site_Examination_Code_Evaluation_Prompt.md](./Supplement_03_On_Site_Examination_Code_Evaluation_Prompt.md) - Review on-site UVa/CPE-style code with structured AI evaluation prompts.
+- [Supplement_04_Learning_Input_Patterns_via_UVa_Problems.md](./Supplement_04_Learning_Input_Patterns_via_UVa_Problems.md) - Practice recognizing common UVa input patterns and selecting robust input handling approaches.
+- [Supplement_05_Preparing_Your_Codebook.md](./Supplement_05_Preparing_Your_Codebook.md) - Build and refine a personal C++ codebook for reusable templates and fast recall.
+- [Supplement_06_Iteration_vs_Recursion.md](./Supplement_06_Iteration_vs_Recursion.md) - Compare iterative and recursive approaches, including trade-offs and suitable use cases.
+- [Supplement_07_Data_Structures.md](./Supplement_07_Data_Structures.md) - Study data structures from fundamentals to advanced concepts with C++ examples.
+- [Supplement_08_Learning_STL.md](./Supplement_08_Learning_STL.md) - Learn STL containers and algorithms, with practical examples for competitive programming.
 
-## How to Use
+## Suggested Study Sequence
 
-1. Start with Supplement 01 to build background knowledge.
-2. Use Supplement 02 for full CPE examination preparation.
-3. Use Supplement 03 to review a specific solution or submission.
-4. Use Supplement 04 to identify input patterns before coding.
-5. Use Supplement 05 to build and refine your personal codebook.
-6. Use Supplement 06 to decide between iterative and recursive approaches in C++ problems.
+1. Start with Supplement 01 for language background and learning context.
+2. Read Supplements 07 and 08 to build practical C++ structure and STL fluency.
+3. Use Supplement 04 to strengthen input-pattern recognition before coding.
+4. Build your reusable toolkit with Supplement 05.
+5. Use Supplement 06 to choose implementation style (iteration vs recursion).
+6. Use Supplement 03 to review completed solutions and improve code quality.
+7. Revisit Supplement 02 before mock tests and the actual CPE examination.
 
 ## Suggested Workflow
 
-- **Before practice:** Read Supplements 01, 04, and 05.
-- **During practice:** Use Supplement 06 to choose implementation style.
-- **After practice:** Use Supplement 03 to evaluate and improve code.
-- **Before exam:** Revisit Supplement 02 for final strategy alignment.
+- **Foundation stage:** Supplements 01, 07, and 08.
+- **Practice stage:** Supplements 04, 05, and 06.
+- **Review stage:** Supplement 03.
+- **Exam stage:** Supplement 02.

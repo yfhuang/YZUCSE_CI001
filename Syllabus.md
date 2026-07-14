@@ -96,10 +96,12 @@ Students who participate in CPE (Collegiate Programming Examination) can earn bo
 ## References
 
 ### Books
+- 劉邦鋒（Pangfeng Liu. *由重構學習 C++ 程式設計*. 國立臺灣大學出版中心, 2023.
+- Dale, Nell; Weems, Chip. *C++ Plus Data Structures*. 6th ed. Jones & Bartlett Learning, 2016.
+- Daniel Kusswurm. *Practical C++ STL Programming: Real-World Applications with C++20 and C++23*.  Apress, 2024.
 - Halim, Steven; Halim, Felix; Effendy, Suhendry. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s, Book 1*. 1st ed. Lulu Press, Inc., 2018.
 - Halim, Steven; Halim, Felix; Effendy, Suhendry. *Competitive Programming 4: The Lower Bound of Programming Contests in the 2020s, Book 2*. 1st ed. Lulu Press, Inc., 2020.
-- 劉邦鋒（Pangfeng Liu）. *由重構學習 C++ 程式設計*. 國立臺灣大學出版中心, 2023.
-- Dale, Nell; Weems, Chip. *C++ Plus Data Structures*. 6th ed. Jones & Bartlett Learning, 2016.
+- John Farrier. *Data Structures and Algorithms with the C++ STL: A guide for modern C++ practitioners*. Packt Publishing, 2024.
 
 ### Online Resources
  - [Boost C++ Libraries](https://www.boost.org/)

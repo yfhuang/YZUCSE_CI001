@@ -13,6 +13,7 @@ CPE (Collegiate Programming Examination / 大學程式能力檢定) aims to enha
 ## Related Documents
 - [CPEHistory.md](./CPEHistory.md)
 - [CPEoneStar.md](./CPEoneStar.md)
+- [CPE26.md](./CPE26.md)
 
 ## Official Resources
 - [CPE Official Website](https://cpe.ntu.edu.tw/)

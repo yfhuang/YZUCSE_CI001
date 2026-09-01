@@ -18,6 +18,8 @@ Knowing the historical background helps you:
 | 2 | Interview with Bjarne Stroustrup | [Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes \| Bjarne Stroustrup](https://youtu.be/U46fJ2bJ-co?si=nB8vtLATyg-46VES) | Core philosophy, trade-offs, and lessons from language design. |
 | 3 | Historical perspectives on C++ evolution | [Bjarne Stroustrup: C++ \| Lex Fridman Podcast #48](https://youtu.be/uTxRF5ag27A?si=m_tmyDTIRkrA980j) | Compare viewpoints and summarize the key ideas in your own words. |
 | 4 | Alex Stepanov, Generic Programming, and the C++ STL | [Alex Stepanov, Generic Programming, and the C++ STL](https://www.youtube.com/watch?v=yUa6Uxq25tQ&t=12s) | Generic programming principles, the origins of the STL, and the relationship between algorithms and containers. |
+| 5 | C++ STL by Example | [C++ STL by Example by Douglas Schmidt](https://youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1&si=m6caoN0BiDqkQXh9) | Practical STL usage, standard containers, iterators, and algorithms with concrete examples. |
+
 
 ## Suggested Learning Path
 
@@ -25,6 +27,7 @@ Knowing the historical background helps you:
 2. Watch Video 2 next to hear the original design philosophy from the language creator.
 3. Watch Video 3 to reinforce and cross-check your understanding.
 4. Watch Video 4 to connect C++ history with generic programming and the design of the Standard Template Library (STL).
+5. Watch Video 5 to see how STL concepts appear in practical code and reusable patterns.
 
 ## Reflection Questions for Students
 
@@ -35,7 +38,8 @@ After watching, try writing short answers to these questions:
 3. Which historical design decision still affects how we write C++ today?
 4. Which modern C++ feature would you prioritize learning first, and why?
 5. How do the STL's separation of algorithms and containers reflect generic-programming principles?
+6. Which STL container or algorithm from Video 5 would you apply first in a C++ assignment, and why?
 
 ## Study Tip
 
-Do not treat these videos as passive content. While watching, keep a timeline note (for example, C -> C with Classes -> C++ standardization -> modern C++) and connect each stage to concrete language features you have used in class. Record one example of a trade-off or design goal for each stage.
+Do not treat these videos as passive content. While watching, keep a timeline note (for example, C -> C with Classes -> C++ standardization -> modern C++) and connect each stage to concrete language features you have used in class. Record one example of a trade-off or design goal for each stage, and add one practical STL example from Video 5 to your notes.

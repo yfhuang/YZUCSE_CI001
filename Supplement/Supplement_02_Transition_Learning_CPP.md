@@ -115,9 +115,9 @@ Each box can contain only:
 
 Therefore, eight boxes can produce:
 
-\[
+$$
 2^8 = 256
-\]
+$$
 
 different patterns.
 
@@ -151,15 +151,15 @@ Suppose all eight bits are used to represent non-negative numbers.
 
 The range is:
 
-\[
+$$
 0 \sim 2^8-1
-\]
+$$
 
 or:
 
-\[
+$$
 0 \sim 255
-\]
+$$
 
 This is similar to an **unsigned integer**.
 
@@ -177,11 +177,9 @@ The number of students normally should not be negative.
 
 But what if we need to represent temperature?
 
-```text
-10°C
-0°C
--5°C
-```
+- 10°C
+- 0°C
+- -5°C
 
 Now negative values are meaningful.
 
@@ -199,21 +197,9 @@ For an 8-bit signed integer:
 01111111 → 127
 ```
 
-The range is:
+The range is from -128 to 127.
 
-\[
--128 \sim 127
-\]
-
-or more generally:
-
-\[
--2^{n-1}
-\sim
-2^{n-1}-1
-\]
-
-for an `n`-bit signed integer.
+In general, for an `n`-bit signed integer, the range is from $-2^{n-1}$ to $2^{n-1}-1$.
 
 In C++:
 
@@ -291,17 +277,17 @@ long long
 
 Students also know decimal numbers:
 
-\[
+$$
 3.14
-\]
+$$
 
-\[
+$$
 -0.5
-\]
+$$
 
-\[
+$$
 123.456
-\]
+$$
 
 In C++:
 
@@ -314,9 +300,9 @@ But there is an important difference between mathematics and computers.
 
 In mathematics:
 
-\[
+$$
 \frac{1}{3}=0.333333333333\ldots
-\]
+$$
 
 The digits continue indefinitely.
 
@@ -350,9 +336,9 @@ This introduces the concept of **floating-point precision**.
 
 Students already know:
 
-\[
+$$
 \frac{5}{2}=2.5
-\]
+$$
 
 But consider C++:
 
@@ -433,17 +419,17 @@ Students already use variables in mathematics.
 
 For example:
 
-\[
+$$
 x=10
-\]
+$$
 
-\[
+$$
 y=20
-\]
+$$
 
-\[
+$$
 z=x+y
-\]
+$$
 
 The corresponding C++ program is:
 
@@ -481,9 +467,9 @@ int
 
 Students already understand:
 
-\[
+$$
 c=a+b
-\]
+$$
 
 C++:
 
@@ -493,9 +479,9 @@ c = a + b;
 
 Another example:
 
-\[
+$$
 v=\frac{d}{t}
-\]
+$$
 
 C++:
 
@@ -505,9 +491,9 @@ double v = d / t;
 
 Temperature conversion:
 
-\[
+$$
 C=\frac{5}{9}(F-32)
-\]
+$$
 
 C++:
 
@@ -634,9 +620,9 @@ Students already encounter logical statements.
 
 For example:
 
-\[
+$$
 10 > 5
-\]
+$$
 
 This statement is:
 
@@ -682,13 +668,13 @@ for
 
 Students have learned inequalities:
 
-\[
+$$
 x > 10
-\]
+$$
 
-\[
+$$
 x \le 100
-\]
+$$
 
 C++ uses almost the same notation:
 
@@ -721,15 +707,9 @@ Decision
 
 # 17. From Piecewise Functions to `if-else`
 
-Students may already know piecewise functions:
+Students may already know piecewise functions.
 
-\[
-f(x)=
-\begin{cases}
-x, & x \geq 0\\
--x, & x < 0
-\end{cases}
-\]
+For example: if $x \geq 0$, then $f(x)=x$; otherwise, $f(x)=-x$.
 
 This is the absolute value function.
 
@@ -761,15 +741,15 @@ if / else
 
 Students have already seen mathematical sequences:
 
-\[
+$$
 a_1,a_2,a_3,\ldots,a_n
-\]
+$$
 
 For example:
 
-\[
+$$
 10,20,30,40,50
-\]
+$$
 
 Instead of declaring:
 
@@ -809,9 +789,9 @@ Array / Vector
 
 Consider:
 
-\[
+$$
 1+2+3+4+5
-\]
+$$
 
 Students already know this as repeated addition.
 
@@ -823,9 +803,9 @@ int sum = 1 + 2 + 3 + 4 + 5;
 
 But what about:
 
-\[
+$$
 1+2+\cdots+1000?
-\]
+$$
 
 We can describe the repeated process:
 
@@ -853,9 +833,9 @@ Loop
 
 Students already understand:
 
-\[
+$$
 f(x)=x^2
-\]
+$$
 
 We can express the same idea in C++:
 
@@ -1008,9 +988,9 @@ Time  = 2 hours
 
 From high-school mathematics:
 
-\[
+$$
 Distance=Speed\times Time
-\]
+$$
 
 Transition to programming:
 

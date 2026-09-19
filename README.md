@@ -34,11 +34,12 @@ This repository reflects my own teaching ideas, course organization, and learnin
     - Tuesaday 10:00 ~ 12:00 (YZ Building I, R1008)
 - **Contact:** [Yu-Feng Huang, Ph.D.](mailto:yfhuang@saturn.yzu.edu.tw)  
 - **Teaching Assistant:**
-    - TBD
-    - TBD
+    - [周志穎](mailto:s1146075@mail.yzu.edu.tw)
+    - [羅世捷](mailto:s1133348@mail.yzu.edu.tw)
+    - [蕭翊翔](mailto:s1131503@mail.yzu.edu.tw)
 - **Office Hours:** 
-    - TBD
-    - TBD
+    - Monday: 13:00 ~ 15:00
+    - Friday: 13:00 ~ 15:00
 
 [Back to Table of Contents](#table-of-contents)
 

@@ -9,14 +9,19 @@ bool valid(const string& s) {
     // A stack stores opening parentheses we have seen.
     stack<char> st;
 
-    // Read the string one character at a time.
-    for (char c : s) {
+    // Read the string one character at a time using the traditional index form.
+    for (int i = 0; i < s.length(); ++i) {
+        char c = s[i];
+
         if (c == '(') {
             // If we see '(', store it in the stack.
             st.push(c);
-        } else if (c == ')') {
+        }
+        else if (c == ')') {
             // If we see ')' but there is no matching '(', the string is invalid.
-            if (st.empty()) return false;
+            if (st.empty()) {
+                return false;
+            }
 
             // Otherwise, remove the matching opening parenthesis.
             st.pop();
@@ -33,7 +38,12 @@ int main() {
     cin >> s;
 
     // Step 2: Print whether the parentheses are valid.
-    cout << (valid(s) ? "valid" : "invalid") << '\n';
+    if (valid(s)) {
+        cout << "valid\n";
+    }
+    else {
+        cout << "invalid\n";
+    }
 
     // Step 3: End the program successfully.
     return 0;

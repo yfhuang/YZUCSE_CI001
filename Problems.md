@@ -30,6 +30,17 @@ This document tracks weekly problem assignments for an on-site examination prepa
 
 The midterm takes place in Week 8.
 
+| No. | UVa | Problem Title | Difficulty |
+|-----|-----|---------------|------------|
+| 1 | [UVa 11547](https://onlinejudge.org/external/115/11547.pdf) | Automatic Answer | Easy |
+| 2 | [UVa 11461](https://onlinejudge.org/external/114/11461.pdf) | Square Numbers | Easy |
+| 3 | [UVa 10346](https://onlinejudge.org/external/103/10346.pdf) | Peter's Smokes | Regular |
+| 4 | [UVa 11559](https://onlinejudge.org/external/115/11559.pdf) | Event Planning | Regular |
+| 5 | [UVa 10929](https://onlinejudge.org/external/109/10929.pdf) | You can say 11 | Regular |
+| 6 | [UVa 10193](https://onlinejudge.org/external/101/10193.pdf) | All You Need Is Love | Advanced |
+| 7 | [UVa 10327](https://onlinejudge.org/external/103/10327.pdf) | Flip Sort | Advanced |
+| 8 | [UVa 10394](https://onlinejudge.org/external/103/10394.pdf) | Twin Primes | Elite |
+
 ## Final
 
 The final exam will take place in Week 16.

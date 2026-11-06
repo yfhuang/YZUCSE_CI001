@@ -25,6 +25,14 @@ This document tracks weekly problem assignments for an on-site examination prepa
 | 17 | 2026/12/29 | CPE one-star recovery clinic | Weak-topic repair | re-practice, debugging, code reading | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | | | | | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |
 | 18 | 2027/01/05 | STL and light algorithm preview | Queue, greedy, recurrence | confidence bridge to Lab II | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | | | | | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [155. Min Stack](https://leetcode.com/problems/min-stack/) |
 
+## Advanced and Elite Challenges
+
+Starting in Week 7, these optional UVa problems provide additional challenge beyond the regular and bonus assignments.
+
+| Week | Advanced 1 | Advanced 2 | Elite 1 | Elite 2 |
+|------|------------|------------|---------|---------|
+| 7 | [UVa 10611. The Playboy Chimp](https://onlinejudge.org/external/106/10611.pdf) | [UVa 10327. Flip Sort](https://onlinejudge.org/external/103/10327.pdf) | [UVa 11413. Fill the Containers](https://onlinejudge.org/external/114/11413.pdf) | [UVa 10810. Ultra-QuickSort](https://onlinejudge.org/external/108/10810.pdf) |
+| 9 | [UVa 10252. Common Permutation](https://onlinejudge.org/external/102/10252.pdf) | [UVa 10789. Prime Frequency](https://onlinejudge.org/external/107/10789.pdf) | [UVa 10126. Zipf's Law](https://onlinejudge.org/external/101/10126.pdf) | [UVa 902. Password Search](https://onlinejudge.org/external/9/902.pdf) |
 
 ## Midterm
 

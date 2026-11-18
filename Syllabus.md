@@ -50,13 +50,13 @@ For detailed examination guidelines, please review the [On-site Examination Poli
 | 9 | 2026/11/03 | Strings I: basic processing | `string`, `char`, ASCII |
 | 10 | 2026/11/10 | Strings II: encoding and patterns | string traversal, pattern checking |
 | 11 | 2026/11/17 | Map, set, and dictionary | `map`, `set`, counting |
-| 12 | 2026/11/24 | 2D arrays and matrix | nested loops, 2D arrays |
-| 13 | 2026/12/01 | Simulation | process modeling, arrays/vector |
-| 14 | 2026/12/08 | Sorting records and custom order | `struct`, comparator, sorting |
-| 15 | 2026/12/15 | Greedy and light recurrence | greedy, recurrence table |
+| 12 | 2026/11/24 | Arrays and vectors: 1D sequences | `array`, `vector`, indexing, loops, `sort` |
+| 13 | 2026/12/01 | Strings and simple input processing | `string`, `cin`, `getline`, `char`, sentinel / EOF |
+| 14 | 2026/12/08 | Array, vector, and string integration | `vector`, `sort`, strings, nested loops |
+| 15 | 2026/12/15 | Foundation integration and final review | `string`, `vector`, 2D arrays, loops and conditions |
 | 16 | 2026/12/22 | Final Exam | exam strategy, debugging |
-| 17 | 2026/12/29 | CPE one-star recovery clinic | re-practice, debugging, code reading |
-| 18 | 2027/01/05 | STL and light algorithm preview | confidence bridge to C++ Programming Laboratory (II) |
+| 17 | 2026/12/29 | CPE one-star recovery clinic | `array`, `vector`, `string`, loops, debugging |
+| 18 | 2027/01/05 | CPE two-problem mock and Lab II bridge | `vector`, `string`, `sort`, repeated input |
 
 [Back to top](#ci001-c-programming-laboratory-i---syllabus)
 
